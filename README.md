@@ -32,3 +32,15 @@ lab2/ReadMe.md
 
 submission.csv
 Загрузил в кеглю
+
+### Лаба 4
+Код расположен в дирректории "lab4"
+
+##### Ответы
+
+1.secondary \
+2.pdays,previous \
+3.poutcome\
+4.0.90\
+5.balance\
+6.10
