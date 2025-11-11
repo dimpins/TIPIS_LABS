@@ -50,8 +50,8 @@ submission.csv
 
 ##### Ответы
 
-1. study_hours_per_week \
-2. 42.137 \
-3. n_estimators=90 \
-4. max_depth=10 \
-5. study_hours_per_week \
+1. study_hours_per_week
+2. 42.137
+3. n_estimators=90
+4. max_depth=10
+5. study_hours_per_week
